@@ -1,0 +1,14 @@
+{
+  "goal": "Compare regional sales and explain the difference.",
+  "data": {"North": 120, "South": 90},
+  "deliverable": "A concise comparison with the correct numbers and a clear explanation.",
+  "checks": [
+    "Use only the supplied values.",
+    "Show the absolute difference.",
+    "State which region is higher and by how much."
+  ],
+  "boundaries": [
+    "Do not guess missing data.",
+    "Do not browse or use external data."
+  ]
+}
